@@ -1,0 +1,10 @@
+# IntelliJ / Cursor
+.idea/
+
+# Java build
+*.class
+*.jar
+*.war
+out/
+target/
+build/
